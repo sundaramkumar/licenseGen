@@ -1,0 +1,2 @@
+# licenseGen
+license Generator
